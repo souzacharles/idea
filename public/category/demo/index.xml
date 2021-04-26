@@ -5,7 +5,7 @@
     <link>/category/demo/</link>
       <atom:link href="/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Sun, 13 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>pt</language><lastBuildDate>Sun, 27 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_huf08263858b5ff4e6c3d8480bf5990291_33266_512x512_fill_lanczos_center_2.png</url>
       <title>Demo</title>
@@ -15,7 +15,7 @@
     <item>
       <title>Welcome to Wowchemy, the website builder for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 27 Dec 2020 00:00:00 +0000</pubDate>
       <guid>/post/getting-started/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;ol&gt;
